@@ -1,5 +1,5 @@
 # agile-battle-android-app
-An android app, a classic game that level up eyesight and speed. Would you like to challenge it?
+An android app, some classic games that level up eyesight and speed. Would you like to challenge it?
 
 [Download link](https://play.google.com/store/apps/details?id=com.snake.agilebattle)
 
